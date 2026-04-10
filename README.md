@@ -1,5 +1,5 @@
 # KCA_DSTGCN
-This repository is the code implementation of the paper "KCA_DSTGCN".
+Y. Hu, L. Chen, F. Zhou, J. Zhao and W. Wang, "Modeling of Gas Turbines via a Knowledge-Embedded Condition-Aware Dynamic Spatiotemporal Graph Convolutional Network," in IEEE Transactions on Industry Applications, doi: 10.1109/TIA.2026.3678882. 
 
 ## Project Introduction
 
